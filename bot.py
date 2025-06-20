@@ -1,6 +1,5 @@
 import telebot
 
-# Ganti dengan token bot kamu
 BOT_TOKEN = 8141642032:AAHvQtW0jk5atQWAy_m_YP6oA0oIZTyAu8c
 
 bot = telebot.TeleBot(BOT_TOKEN)
